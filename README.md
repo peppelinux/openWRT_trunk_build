@@ -1,3 +1,6 @@
+OpenWrt Designated Driver 49973 / LuCI Master (git-16.302.51425-98e12fc)
+========================
+
 COMPILATION
 ========================
 
