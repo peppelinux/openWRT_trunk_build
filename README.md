@@ -58,7 +58,10 @@ jshn_2016-07-29-290c64ef5b5c3e75be851594f269d6a9568e64e5_ar71xx.ipk
 jsonfilter_2016-07-02-dea067ad67d977c247c300c06676a06adf21e0c7_ar71xx.ipk
 
 kmod-arptables_4.4.14-1_ar71xx.ipk
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8faab09178bb4c1e3f00e76bf05b3d30d01e6c65
 kmod-ath9k-common_4.4.14+2016-05-12-1_ar71xx.ipk 
 
 kmod-ath9k_4.4.14+2016-05-12-1_ar71xx.ipk 
