@@ -1,17 +1,17 @@
-COMPILATION:
+COMPILATION
+========================
 
-git clone git://github.com/openwrt/openwrt.git
+`git clone git://github.com/openwrt/openwrt.git
 cp -Rp openwrt/ openwrt.orig
 cd openwrt
 
 scripts/feeds install olsrd luci-app-olsr openvpn netdiscover wol etherwake tcpdump-mini iperf arpwatch netstat-nat ssmtp iptraf 
-
 scripts/feeds install -a
+make V=99 -j4`
 
-make V=99 -j4
 
-
-INSTALLED PACKAGES:
+INSTALLED PACKAGES
+========================
 
 arp-scan_1.9-40-g69b2f70-1_ar71xx.ipk
 arptables_0.0.4-1_ar71xx.ipk
