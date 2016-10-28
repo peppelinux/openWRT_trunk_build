@@ -6,7 +6,9 @@ COMPILATION
 `cd openwrt`
 
 `scripts/feeds install olsrd luci-app-olsr openvpn netdiscover wol etherwake tcpdump-mini iperf arpwatch netstat-nat ssmtp iptraf`
+
 `scripts/feeds install -a`
+
 `make V=99 -j4`
 
 
@@ -14,16 +16,27 @@ INSTALLED PACKAGES
 ========================
 
 arp-scan_1.9-40-g69b2f70-1_ar71xx.ipk
+
 arptables_0.0.4-1_ar71xx.ipk
+
 base-files_169-49973_ar71xx.ipk
+
 busybox_1.24.2-1_ar71xx.ipk
+
 conntrack_1.4.3-1_ar71xx.ipk
+
 dnsmasq_2.76-1_ar71xx.ipk
+
 dropbear_2016.74-1_ar71xx.ipk
+
 ebtables-utils_2.0.10-4-5_ar71xx.ipk
+
 ebtables_2.0.10-4-5_ar71xx.ipk
+
 firewall_2016-01-29_ar71xx.ipk
+
 fstools_2016-07-24-addd7dc21fe99f2701c1d4708071578052af401d_ar71xx.ipk
+
 hostapd-common_2016-06-15-1_ar71xx.ipk
 ip6tables_1.4.21-2_ar71xx.ipk
 iperf3_3.1.3-1_ar71xx.ipk
