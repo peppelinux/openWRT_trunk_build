@@ -58,6 +58,10 @@ jshn_2016-07-29-290c64ef5b5c3e75be851594f269d6a9568e64e5_ar71xx.ipk
 jsonfilter_2016-07-02-dea067ad67d977c247c300c06676a06adf21e0c7_ar71xx.ipk
 
 kmod-arptables_4.4.14-1_ar71xx.ipk
+<<<<<<< HEAD
+
+=======
+>>>>>>> 8faab09178bb4c1e3f00e76bf05b3d30d01e6c65
 kmod-ath9k-common_4.4.14+2016-05-12-1_ar71xx.ipk 
 
 kmod-ath9k_4.4.14+2016-05-12-1_ar71xx.ipk 
@@ -318,6 +322,6 @@ uhttpd_2015-11-08-fe01ef3f52adae9da38ef47926cd50974af5d6b7_ar71xx.ipk
 
 usign_2016-07-04-ef6419142a3b0fbcddcccf536e3c1880302c6f89_ar71xx.ipk 
 
-wpad-mini_2016-06-15-1_ar71xx.ipk 
+wpad_2016-06-15-1_ar71xx.ipk
 
 zlib_1.2.8-1_ar71xx.ipk 
