@@ -20,7 +20,6 @@ INSTALLED PACKAGES
 ========================
 
 arp-scan_1.9-40-g69b2f70-1_ar71xx.ipk
-
 arptables_0.0.4-1_ar71xx.ipk
 
 base-files_169-49973_ar71xx.ipk
